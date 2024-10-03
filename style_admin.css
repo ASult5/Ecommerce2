@@ -1,0 +1,19 @@
+.product_img img {
+  width: 150px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.blueTable {
+  background-color: #4a6fdc;
+}
+
+.addBtn {
+  background-color: #fff;
+  outline: none;
+  border: none;
+}
+
+.addBtn:hover {
+  background-color: #2e59d9;
+}
